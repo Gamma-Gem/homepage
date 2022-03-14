@@ -1,0 +1,43 @@
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+
+}
+header {
+    background-color: rgba(83, 132, 195, 1);
+    color: rgb(255, 255, 255);
+    height: 60px;
+}
+.header-title a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
+.header-title{
+    font-size: 24px;
+    float: left;
+    line-height: 60px;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+.header-list {
+    float:left;
+    line-height: 60px;
+    background-color: rgba(83, 132, 195, 1);
+    
+}
+.list{
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    padding: 0 15px 0 15px;
+    border: 10px;
+    transition: all 1s;
+}
+.list:hover{
+    background-color: rgb(59, 105, 230);
+}
+.article_group {
+    border-bottom:medium solid rgb(83, 132, 195);
+    color: rgb(51, 51, 51);
+    margin-left: 4px;
+}
