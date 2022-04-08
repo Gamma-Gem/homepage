@@ -1,7 +1,11 @@
 @media all and (max-width: 1000px) {
-
+    * {
+        font-size: 1.1em;
+    }
 }
 
 @media all and (max-width: 670px) {
-    
+    * {
+        font-size: 1.2em;
+    }
 }

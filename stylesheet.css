@@ -11,11 +11,11 @@ a {
 header {
     background-color: rgba(83, 132, 195, 1);
     color: rgb(255, 255, 255);
-    height: 120px;
+    height: 10%;
 }
 
 .container {
-    max-width: 1170px;
+    max-width: 80%;
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
