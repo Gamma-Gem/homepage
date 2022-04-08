@@ -19,20 +19,20 @@ header {
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
-  }
+}
 
 .header-title a{
     color: rgb(255, 255, 255);
     display: inline-block;
 }
 .header-title{
-    font-size: 24px;
-    line-height: 60px;
+    font-size: 1.5em;
+    line-height: 2em;
     text-align: center;
 }
 .header-list {
     text-align: center;
-    line-height: 60px;
+    line-height: 2em;
     background-color: rgba(83, 132, 195, 1);
     
 }
