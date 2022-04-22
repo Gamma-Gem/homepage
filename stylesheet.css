@@ -13,6 +13,9 @@ header {
     color: rgb(255, 255, 255);
     height: 10%;
 }
+ul{
+    list-style-type: none;
+}
 
 .container {
     max-width: 80%;
@@ -47,7 +50,22 @@ header {
     background-color: rgb(59, 105, 230);
 }
 .article_group {
-    font-size: 24px;
+    font-size: 30px;
     border-bottom:medium solid rgb(83, 132, 195);
     color: rgb(51, 51, 51);
+}
+.article_link{
+    display: inline-block;
+    font-size: 24px;
+    color: rgb(51, 51, 51);
+    transition: all 1s;
+}
+.article_link:hover{
+    color: rgb(59, 105, 230);
+}
+.section{
+    font-size: 1em;
+}
+.contents{
+    font-size: 0.9em
 }
